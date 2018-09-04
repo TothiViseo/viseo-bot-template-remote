@@ -36,8 +36,8 @@
         "console": false,
         "tostatus": false,
         "complete": "false",
-        "x": 1130,
-        "y": 140,
+        "x": 1010,
+        "y": 120,
         "wires": []
     }
 ]
